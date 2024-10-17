@@ -8,4 +8,9 @@ public class test1{
         //hello
         System.out.println("m2-method modified dev2")
     }
+
+     public void m3(){
+      
+        System.out.println("m2-method modified by maven")
+    }
 }
