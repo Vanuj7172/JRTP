@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+G:\Java Real Time Project @ 7_00 AM _ Mr.Nataraj [27-03-2023]-20241012T072113Z-001\Maven\.metadata\.plugins\org.eclipse.jdt.core
+3427981905.index
+943999277.index
+1707776432.index
