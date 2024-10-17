@@ -19,9 +19,16 @@ public class test1{
 
     }
 
+<<<<<<< Updated upstream
       public void m5(){
       
         System.out.println("m5 method - task456 is completed by maven")
+=======
+
+      public void m4(){
+      
+        System.out.println("m4 method - task123 is going on")
+>>>>>>> Stashed changes
 
     }
 }
