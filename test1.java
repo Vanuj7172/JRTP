@@ -18,4 +18,10 @@ public class test1{
         System.out.println("m3-method modified dev2")
 
     }
+
+      public void m5(){
+      
+        System.out.println("m5 method - task456 is completed by maven")
+
+    }
 }
